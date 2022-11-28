@@ -2,3 +2,5 @@ limon
 su
 başka
 sugar
+ilave
+iki
